@@ -6,6 +6,8 @@ This project presents an Intelligent Firewall System powered by Machine Learning
 
 The project focuses on flow-based network traffic analysis, where statistical features extracted from packet flows are used to classify traffic as Normal or Attack. The system is trained and evaluated on large-scale real-world datasets, making it suitable for both academic research and practical cybersecurity applications.
 
+---
+
 🧠 Motivation
 
 Conventional firewall systems rely heavily on static rules and predefined signatures, which struggle to detect:
@@ -20,6 +22,8 @@ Machine Learning–based approaches overcome these limitations by learning from 
 
 This project aims to demonstrate how Machine Learning can enhance firewall intelligence by integrating data-driven decision mechanisms into network security systems.
 
+
+---
 🏗️ System Architecture (Conceptual)
 
 The proposed system follows the pipeline below:
@@ -38,6 +42,7 @@ Firewall Decision Logic (Allow / Block)
 
 Each network flow is evaluated independently, allowing the system to scale efficiently to large volumes of traffic.
 
+---
 📊 Dataset & Data Processing
 
 Large-scale network traffic data
