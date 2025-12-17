@@ -58,7 +58,7 @@ Feature scaling and normalization
 Class imbalance handling to ensure robust model learning
 
 The dataset represents realistic network scenarios, including both benign traffic and multiple attack behaviors.
-
+---
 🤖 Machine Learning Approach
 
 The system applies supervised learning algorithms to classify traffic flows:
@@ -80,7 +80,7 @@ F1-score
 Confusion Matrix
 
 The modular design allows easy integration of different ML models and future upgrades.
-
+---
 🧪 Testing & Evaluation
 
 The project supports:
@@ -92,7 +92,7 @@ Manual input testing to analyze model behavior
 Scenario-based evaluation for both benign and malicious traffic patterns
 
 This enables both quantitative performance measurement and qualitative inspection of model decisions.
-
+---
 🎯 Project Objectives
 
 Develop an adaptive firewall system using Machine Learning
@@ -102,7 +102,7 @@ Improve intrusion detection beyond static rule-based systems
 Provide a scalable and data-driven security solution
 
 Serve as a reference project for academic and applied cybersecurity research
-
+---
 
 📌 Use Cases
 
