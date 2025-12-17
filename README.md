@@ -1,11 +1,10 @@
 ML-Based Intelligent Firewall System
-
+---
 📌 Project Overview
-
+---
 This project presents an Intelligent Firewall System powered by Machine Learning, designed to analyze network traffic flows and automatically detect malicious activities. Unlike traditional rule-based firewalls, this system learns traffic behavior patterns directly from data, enabling adaptive and scalable intrusion detection.
 
 The project focuses on flow-based network traffic analysis, where statistical features extracted from packet flows are used to classify traffic as Normal or Attack. The system is trained and evaluated on large-scale real-world datasets, making it suitable for both academic research and practical cybersecurity applications.
-
 ---
 
 🧠 Motivation
@@ -20,9 +19,7 @@ Sophisticated distributed attacks
 
 Machine Learning–based approaches overcome these limitations by learning from historical traffic data, enabling better generalization and improved detection performance.
 
-This project aims to demonstrate how Machine Learning can enhance firewall intelligence by integrating data-driven decision mechanisms into network security systems.
-
-
+This project aims to demonstrate how Machine Learning can enhance firewall intelligence by integrating data-driven decision mechanisms into network security systems
 ---
 🏗️ System Architecture (Conceptual)
 
